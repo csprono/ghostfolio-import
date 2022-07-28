@@ -2,6 +2,7 @@
   {
     "activities": [
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-03-25 23:00:00 (UTC)",
@@ -12,6 +13,7 @@
         "unitPrice": 1.389
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-03-25 23:36:54.682349 (UTC)",
@@ -22,6 +24,7 @@
         "unitPrice": 1.979
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-03-25 23:36:54.682349 (UTC)",
@@ -32,6 +35,7 @@
         "unitPrice": 1.068
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-03-30 01:59:55.536274 (UTC)",
@@ -42,6 +46,7 @@
         "unitPrice": 0.937
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-04-05 22:01:24 (UTC)",
@@ -52,6 +57,7 @@
         "unitPrice": 3.238
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-04-05 22:03:12 (UTC)",
@@ -62,6 +68,7 @@
         "unitPrice": 7.83
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-04-27 22:02:50 (UTC)",
@@ -72,6 +79,7 @@
         "unitPrice": 2.729
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-04-27 22:28:45 (UTC)",
@@ -82,6 +90,7 @@
         "unitPrice": 8.8
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-06-09 22:01:39 (UTC)",
@@ -92,6 +101,7 @@
         "unitPrice": 9.085
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2020-06-09 22:06:16 (UTC)",
@@ -102,6 +112,7 @@
         "unitPrice": 0.94
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:00:25 (UTC)",
@@ -112,6 +123,7 @@
         "unitPrice": 1.18
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:00:38 (UTC)",
@@ -122,6 +134,7 @@
         "unitPrice": 1.13
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:02:22 (UTC)",
@@ -132,6 +145,7 @@
         "unitPrice": 64.92
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:03:13 (UTC)",
@@ -142,6 +156,7 @@
         "unitPrice": 11.01
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:03:24 (UTC)",
@@ -152,6 +167,7 @@
         "unitPrice": 1.43
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-17 21:11:32 (UTC)",
@@ -162,6 +178,7 @@
         "unitPrice": 3.511
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-01-18 23:00:00 (UTC)",
@@ -172,6 +189,7 @@
         "unitPrice": 3.477
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-02-21 21:03:01 (UTC)",
@@ -182,6 +200,7 @@
         "unitPrice": 1.301
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-05 22:01:03 (UTC)",
@@ -192,6 +211,7 @@
         "unitPrice": 5.7
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-05 22:01:05 (UTC)",
@@ -202,6 +222,7 @@
         "unitPrice": 29.59
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-05 22:01:30 (UTC)",
@@ -212,6 +233,7 @@
         "unitPrice": 1.3
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-05 22:01:54 (UTC)",
@@ -222,6 +244,7 @@
         "unitPrice": 7.55
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-05 22:04:01 (UTC)",
@@ -232,6 +255,7 @@
         "unitPrice": 4.505
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-18 22:00:23 (UTC)",
@@ -242,6 +266,7 @@
         "unitPrice": 1.33
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-04-27 22:21:07 (UTC)",
@@ -252,6 +277,7 @@
         "unitPrice": 69.8
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-01 23:14:32 (UTC)",
@@ -262,6 +288,7 @@
         "unitPrice": 3.404
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-01 23:15:05 (UTC)",
@@ -272,6 +299,7 @@
         "unitPrice": 10.599
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-01 23:15:51 (UTC)",
@@ -282,6 +310,7 @@
         "unitPrice": 1.49
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:30:26.149000 (UTC)",
@@ -292,6 +321,7 @@
         "unitPrice": 227.69
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:30:26.272000 (UTC)",
@@ -302,6 +332,7 @@
         "unitPrice": 651.2
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:30:26.769000 (UTC)",
@@ -312,6 +343,7 @@
         "unitPrice": 55.4
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:30:30.927000 (UTC)",
@@ -322,6 +354,7 @@
         "unitPrice": 233.96
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:30:36.226000 (UTC)",
@@ -332,6 +365,7 @@
         "unitPrice": 3223.45
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-06-02 13:31:25.292000 (UTC)",
@@ -342,6 +376,7 @@
         "unitPrice": 113.34
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-03 00:00:00 (UTC)",
@@ -352,6 +387,7 @@
         "unitPrice": 4.045
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-04 00:50:33.119664 (UTC)",
@@ -362,6 +398,7 @@
         "unitPrice": 1.365
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-13 22:00:41 (UTC)",
@@ -372,6 +409,7 @@
         "unitPrice": 28.31
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-13 22:07:42 (UTC)",
@@ -382,6 +420,7 @@
         "unitPrice": 30.54
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-20 22:02:07 (UTC)",
@@ -392,6 +431,7 @@
         "unitPrice": 6.75
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-23 00:35:04 (UTC)",
@@ -402,6 +442,7 @@
         "unitPrice": 4.78
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-06-28 00:35:49 (UTC)",
@@ -412,6 +453,7 @@
         "unitPrice": 7.45
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-05 00:00:00 (UTC)",
@@ -422,6 +464,7 @@
         "unitPrice": 4.052
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-07-09 13:30:16.328000 (UTC)",
@@ -432,6 +475,7 @@
         "unitPrice": 798.0
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-15 02:20:24 (UTC)",
@@ -442,6 +486,7 @@
         "unitPrice": 1.317
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-07-15 13:30:24.069000 (UTC)",
@@ -452,6 +497,7 @@
         "unitPrice": 661.08
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-07-15 13:30:34.047000 (UTC)",
@@ -462,6 +508,7 @@
         "unitPrice": 149.33
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-18 22:01:33 (UTC)",
@@ -472,6 +519,7 @@
         "unitPrice": 28.99
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-18 22:01:43 (UTC)",
@@ -482,6 +530,7 @@
         "unitPrice": 26.15
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -492,6 +541,7 @@
         "unitPrice": 4.447
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -502,6 +552,7 @@
         "unitPrice": 1.97
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -512,6 +563,7 @@
         "unitPrice": 3.449
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -522,6 +574,7 @@
         "unitPrice": 1.49
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -532,6 +585,7 @@
         "unitPrice": 2.363
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-07-26 01:43:41.056707 (UTC)",
@@ -542,6 +596,7 @@
         "unitPrice": 11.583
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -552,6 +607,7 @@
         "unitPrice": 4.495
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -562,6 +618,7 @@
         "unitPrice": 1.992
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -572,6 +629,7 @@
         "unitPrice": 3.427
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -582,6 +640,7 @@
         "unitPrice": 1.479
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -592,6 +651,7 @@
         "unitPrice": 2.349
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-02 01:41:07.135608 (UTC)",
@@ -602,6 +662,7 @@
         "unitPrice": 11.581
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -612,6 +673,7 @@
         "unitPrice": 4.525
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -622,6 +684,7 @@
         "unitPrice": 2.0
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -632,6 +695,7 @@
         "unitPrice": 3.46
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -642,6 +706,7 @@
         "unitPrice": 1.467
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -652,6 +717,7 @@
         "unitPrice": 2.357
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-09 02:05:19.573472 (UTC)",
@@ -662,6 +728,7 @@
         "unitPrice": 11.591
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -672,6 +739,7 @@
         "unitPrice": 4.521
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -682,6 +750,7 @@
         "unitPrice": 2.021
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -692,6 +761,7 @@
         "unitPrice": 3.481
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -702,6 +772,7 @@
         "unitPrice": 1.461
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -712,6 +783,7 @@
         "unitPrice": 2.345
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-16 01:44:32.389165 (UTC)",
@@ -722,6 +794,7 @@
         "unitPrice": 11.568
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-19 03:34:22 (UTC)",
@@ -732,6 +805,7 @@
         "unitPrice": 4.79
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -742,6 +816,7 @@
         "unitPrice": 4.423
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -752,6 +827,7 @@
         "unitPrice": 2.042
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -762,6 +838,7 @@
         "unitPrice": 3.544
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -772,6 +849,7 @@
         "unitPrice": 1.454
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -782,6 +860,7 @@
         "unitPrice": 2.346
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-23 01:17:07.915281 (UTC)",
@@ -792,6 +871,7 @@
         "unitPrice": 11.934
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -802,6 +882,7 @@
         "unitPrice": 4.399
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -812,6 +893,7 @@
         "unitPrice": 2.022
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -822,6 +904,7 @@
         "unitPrice": 3.583
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -832,6 +915,7 @@
         "unitPrice": 1.474
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -842,6 +926,7 @@
         "unitPrice": 2.338
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-08-30 01:24:43.043718 (UTC)",
@@ -852,6 +937,7 @@
         "unitPrice": 11.807
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-09-01 13:30:14.515000 (UTC)",
@@ -862,6 +948,7 @@
         "unitPrice": 224.63
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-09-03 13:30:14.587000 (UTC)",
@@ -872,6 +959,7 @@
         "unitPrice": 56.61
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -882,6 +970,7 @@
         "unitPrice": 4.352
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -892,6 +981,7 @@
         "unitPrice": 1.991
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -902,6 +992,7 @@
         "unitPrice": 3.6
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -912,6 +1003,7 @@
         "unitPrice": 1.47
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -922,6 +1014,7 @@
         "unitPrice": 2.377
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-06 01:28:30.102636 (UTC)",
@@ -932,6 +1025,7 @@
         "unitPrice": 11.638
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -942,6 +1036,7 @@
         "unitPrice": 4.338
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -952,6 +1047,7 @@
         "unitPrice": 1.963
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -962,6 +1058,7 @@
         "unitPrice": 3.545
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -972,6 +1069,7 @@
         "unitPrice": 1.487
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -982,6 +1080,7 @@
         "unitPrice": 2.389
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-13 01:24:16.067379 (UTC)",
@@ -992,6 +1091,7 @@
         "unitPrice": 11.498
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1002,6 +1102,7 @@
         "unitPrice": 4.238
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1012,6 +1113,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1022,6 +1124,7 @@
         "unitPrice": 3.579
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1032,6 +1135,7 @@
         "unitPrice": 1.46
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1042,6 +1146,7 @@
         "unitPrice": 2.404
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-20 01:23:07.947758 (UTC)",
@@ -1052,6 +1157,7 @@
         "unitPrice": 11.551
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-23 01:53:15.118905 (UTC)",
@@ -1062,6 +1168,7 @@
         "unitPrice": 1.395
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-26 23:34:46 (UTC)",
@@ -1072,6 +1179,7 @@
         "unitPrice": 5.2
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-26 23:36:24 (UTC)",
@@ -1082,6 +1190,7 @@
         "unitPrice": 7.29
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-26 23:38:05 (UTC)",
@@ -1092,6 +1201,7 @@
         "unitPrice": 1.55
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1102,6 +1212,7 @@
         "unitPrice": 4.299
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1112,6 +1223,7 @@
         "unitPrice": 1.965
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1122,6 +1234,7 @@
         "unitPrice": 3.61
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1132,6 +1245,7 @@
         "unitPrice": 1.458
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1142,6 +1256,7 @@
         "unitPrice": 2.39
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 00:47:14.575852 (UTC)",
@@ -1152,6 +1267,7 @@
         "unitPrice": 11.685
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-27 21:00:50 (UTC)",
@@ -1162,6 +1278,7 @@
         "unitPrice": 1.54
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-09-28 19:00:00 (UTC)",
@@ -1172,6 +1289,7 @@
         "unitPrice": 0.519
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1182,6 +1300,7 @@
         "unitPrice": 4.275
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1192,6 +1311,7 @@
         "unitPrice": 1.936
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1202,6 +1322,7 @@
         "unitPrice": 3.63
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1212,6 +1333,7 @@
         "unitPrice": 1.459
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1222,6 +1344,7 @@
         "unitPrice": 2.344
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-04 00:54:14.936502 (UTC)",
@@ -1232,6 +1355,7 @@
         "unitPrice": 11.519
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1242,6 +1366,7 @@
         "unitPrice": 4.282
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1252,6 +1377,7 @@
         "unitPrice": 1.925
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1262,6 +1388,7 @@
         "unitPrice": 3.57
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1272,6 +1399,7 @@
         "unitPrice": 1.47
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1282,6 +1410,7 @@
         "unitPrice": 2.288
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-11 00:37:46.486056 (UTC)",
@@ -1292,6 +1421,7 @@
         "unitPrice": 11.525
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1302,6 +1432,7 @@
         "unitPrice": 4.336
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1312,6 +1443,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1322,6 +1454,7 @@
         "unitPrice": 3.567
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1332,6 +1465,7 @@
         "unitPrice": 1.484
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1342,6 +1476,7 @@
         "unitPrice": 2.304
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-18 01:24:47.226301 (UTC)",
@@ -1352,6 +1487,7 @@
         "unitPrice": 11.563
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-25 21:00:37 (UTC)",
@@ -1362,6 +1498,7 @@
         "unitPrice": 29.6
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-25 21:16:37 (UTC)",
@@ -1372,6 +1509,7 @@
         "unitPrice": 7.1
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1382,6 +1520,7 @@
         "unitPrice": 4.381
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1392,6 +1531,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1402,6 +1542,7 @@
         "unitPrice": 3.585
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1412,6 +1553,7 @@
         "unitPrice": 1.469
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1422,6 +1564,7 @@
         "unitPrice": 2.28
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-10-26 01:56:02.366796 (UTC)",
@@ -1432,6 +1575,7 @@
         "unitPrice": 11.728
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-10-27 13:30:37.702000 (UTC)",
@@ -1442,6 +1586,7 @@
         "unitPrice": 1042.84
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-10-28 19:45:03.810000 (UTC)",
@@ -1452,6 +1597,7 @@
         "unitPrice": 245.09
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-10-28 19:46:10.836000 (UTC)",
@@ -1462,6 +1608,7 @@
         "unitPrice": 55.99
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2021-10-28 19:48:35.029000 (UTC)",
@@ -1472,6 +1619,7 @@
         "unitPrice": 112.71
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1482,6 +1630,7 @@
         "unitPrice": 4.292
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1492,6 +1641,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1502,6 +1652,7 @@
         "unitPrice": 3.559
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1512,6 +1663,7 @@
         "unitPrice": 1.43
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1522,6 +1674,7 @@
         "unitPrice": 2.266
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-01 00:26:54.819308 (UTC)",
@@ -1532,6 +1685,7 @@
         "unitPrice": 11.8
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1542,6 +1696,7 @@
         "unitPrice": 4.347
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1552,6 +1707,7 @@
         "unitPrice": 1.992
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1562,6 +1718,7 @@
         "unitPrice": 3.544
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1572,6 +1729,7 @@
         "unitPrice": 1.44
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1582,6 +1740,7 @@
         "unitPrice": 2.314
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-08 00:29:21.880519 (UTC)",
@@ -1592,6 +1751,7 @@
         "unitPrice": 12.099
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1602,6 +1762,7 @@
         "unitPrice": 4.365
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1612,6 +1773,7 @@
         "unitPrice": 2.01
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1622,6 +1784,7 @@
         "unitPrice": 3.515
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1632,6 +1795,7 @@
         "unitPrice": 1.495
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1642,6 +1806,7 @@
         "unitPrice": 2.33
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 00:09:13.101137 (UTC)",
@@ -1652,6 +1817,7 @@
         "unitPrice": 12.184
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-15 02:50:49 (UTC)",
@@ -1662,6 +1828,7 @@
         "unitPrice": 4.5
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1672,6 +1839,7 @@
         "unitPrice": 4.24
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1682,6 +1850,7 @@
         "unitPrice": 1.987
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1692,6 +1861,7 @@
         "unitPrice": 3.43
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1702,6 +1872,7 @@
         "unitPrice": 1.48
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1712,6 +1883,7 @@
         "unitPrice": 2.319
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-22 00:57:52.343434 (UTC)",
@@ -1722,6 +1894,7 @@
         "unitPrice": 12.329
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-24 20:59:56 (UTC)",
@@ -1732,6 +1905,7 @@
         "unitPrice": 1.35
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-24 23:00:00 (UTC)",
@@ -1742,6 +1916,7 @@
         "unitPrice": 4.36
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1752,6 +1927,7 @@
         "unitPrice": 4.18
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1762,6 +1938,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1772,6 +1949,7 @@
         "unitPrice": 3.353
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1782,6 +1960,7 @@
         "unitPrice": 1.452
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1792,6 +1971,7 @@
         "unitPrice": 2.283
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-11-29 00:33:04.793519 (UTC)",
@@ -1802,6 +1982,7 @@
         "unitPrice": 12.395
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1812,6 +1993,7 @@
         "unitPrice": 4.152
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1822,6 +2004,7 @@
         "unitPrice": 1.95
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1832,6 +2015,7 @@
         "unitPrice": 3.384
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1842,6 +2026,7 @@
         "unitPrice": 1.461
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1852,6 +2037,7 @@
         "unitPrice": 2.315
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-06 00:17:14.612571 (UTC)",
@@ -1862,6 +2048,7 @@
         "unitPrice": 12.3
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1872,6 +2059,7 @@
         "unitPrice": 4.316
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1882,6 +2070,7 @@
         "unitPrice": 1.999
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1892,6 +2081,7 @@
         "unitPrice": 3.447
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1902,6 +2092,7 @@
         "unitPrice": 1.489
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1912,6 +2103,7 @@
         "unitPrice": 2.347
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-13 00:36:41.314181 (UTC)",
@@ -1922,6 +2114,7 @@
         "unitPrice": 12.724
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1932,6 +2125,7 @@
         "unitPrice": 4.24
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1942,6 +2136,7 @@
         "unitPrice": 1.954
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1952,6 +2147,7 @@
         "unitPrice": 3.415
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1962,6 +2158,7 @@
         "unitPrice": 1.451
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1972,6 +2169,7 @@
         "unitPrice": 2.329
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-20 00:52:45.408944 (UTC)",
@@ -1982,6 +2180,7 @@
         "unitPrice": 12.487
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -1992,6 +2191,7 @@
         "unitPrice": 4.399
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -2002,6 +2202,7 @@
         "unitPrice": 2.048
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -2012,6 +2213,7 @@
         "unitPrice": 3.489
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -2022,6 +2224,7 @@
         "unitPrice": 1.469
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -2032,6 +2235,7 @@
         "unitPrice": 2.344
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2021-12-29 00:42:17.493564 (UTC)",
@@ -2042,6 +2246,7 @@
         "unitPrice": 12.895
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2052,6 +2257,7 @@
         "unitPrice": 4.369
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2062,6 +2268,7 @@
         "unitPrice": 2.053
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2072,6 +2279,7 @@
         "unitPrice": 3.506
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2082,6 +2290,7 @@
         "unitPrice": 1.474
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2092,6 +2301,7 @@
         "unitPrice": 2.345
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-05 00:40:43.577300 (UTC)",
@@ -2102,6 +2312,7 @@
         "unitPrice": 12.837
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2112,6 +2323,7 @@
         "unitPrice": 4.366
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2122,6 +2334,7 @@
         "unitPrice": 2.05
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2132,6 +2345,7 @@
         "unitPrice": 3.459
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2142,6 +2356,7 @@
         "unitPrice": 1.476
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2152,6 +2367,7 @@
         "unitPrice": 2.322
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-10 00:32:55.757943 (UTC)",
@@ -2162,6 +2378,7 @@
         "unitPrice": 12.62
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2172,6 +2389,7 @@
         "unitPrice": 4.362
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2182,6 +2400,7 @@
         "unitPrice": 2.033
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2192,6 +2411,7 @@
         "unitPrice": 3.427
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2202,6 +2422,7 @@
         "unitPrice": 1.505
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2212,6 +2433,7 @@
         "unitPrice": 2.332
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-17 00:40:18.764908 (UTC)",
@@ -2222,6 +2444,7 @@
         "unitPrice": 12.509
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2232,6 +2455,7 @@
         "unitPrice": 4.241
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2242,6 +2466,7 @@
         "unitPrice": 1.999
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2252,6 +2477,7 @@
         "unitPrice": 3.266
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2262,6 +2488,7 @@
         "unitPrice": 1.5
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2272,6 +2499,7 @@
         "unitPrice": 2.283
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-23 23:57:34.010213 (UTC)",
@@ -2282,6 +2510,7 @@
         "unitPrice": 11.999
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2292,6 +2521,7 @@
         "unitPrice": 4.157
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2302,6 +2532,7 @@
         "unitPrice": 2.006
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2312,6 +2543,7 @@
         "unitPrice": 3.214
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2322,6 +2554,7 @@
         "unitPrice": 1.481
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2332,6 +2565,7 @@
         "unitPrice": 2.253
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-01-31 00:13:03.267216 (UTC)",
@@ -2342,6 +2576,7 @@
         "unitPrice": 12.349
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2352,6 +2587,7 @@
         "unitPrice": 4.285
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2362,6 +2598,7 @@
         "unitPrice": 2.02
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2372,6 +2609,7 @@
         "unitPrice": 3.313
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2382,6 +2620,7 @@
         "unitPrice": 1.51
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2392,6 +2631,7 @@
         "unitPrice": 2.289
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-08 00:09:39.556898 (UTC)",
@@ -2402,6 +2642,7 @@
         "unitPrice": 12.389
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2412,6 +2653,7 @@
         "unitPrice": 4.361
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2422,6 +2664,7 @@
         "unitPrice": 1.996
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2432,6 +2675,7 @@
         "unitPrice": 3.252
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2442,6 +2686,7 @@
         "unitPrice": 1.513
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2452,6 +2697,7 @@
         "unitPrice": 2.289
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-14 00:07:08.421146 (UTC)",
@@ -2462,6 +2708,7 @@
         "unitPrice": 12.166
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2472,6 +2719,7 @@
         "unitPrice": 4.322
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2482,6 +2730,7 @@
         "unitPrice": 1.949
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2492,6 +2741,7 @@
         "unitPrice": 3.277
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2502,6 +2752,7 @@
         "unitPrice": 1.495
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2512,6 +2763,7 @@
         "unitPrice": 2.259
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-21 00:16:23.864518 (UTC)",
@@ -2522,6 +2774,7 @@
         "unitPrice": 11.835
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2532,6 +2785,7 @@
         "unitPrice": 4.219
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2542,6 +2796,7 @@
         "unitPrice": 1.899
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2552,6 +2807,7 @@
         "unitPrice": 3.229
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2562,6 +2818,7 @@
         "unitPrice": 1.43
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2572,6 +2829,7 @@
         "unitPrice": 2.225
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-02-28 00:24:52.107716 (UTC)",
@@ -2582,6 +2840,7 @@
         "unitPrice": 11.713
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-06 21:00:20 (UTC)",
@@ -2592,6 +2851,7 @@
         "unitPrice": 0.31
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2602,6 +2862,7 @@
         "unitPrice": 4.318
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2612,6 +2873,7 @@
         "unitPrice": 1.669
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2622,6 +2884,7 @@
         "unitPrice": 3.252
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2632,6 +2895,7 @@
         "unitPrice": 1.328
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2642,6 +2906,7 @@
         "unitPrice": 2.122
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-07 00:31:44.424147 (UTC)",
@@ -2652,6 +2917,7 @@
         "unitPrice": 11.349
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2662,6 +2928,7 @@
         "unitPrice": 4.355
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2672,6 +2939,7 @@
         "unitPrice": 1.737
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2682,6 +2950,7 @@
         "unitPrice": 3.186
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2692,6 +2961,7 @@
         "unitPrice": 1.308
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2702,6 +2972,7 @@
         "unitPrice": 2.095
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-14 00:29:57.401523 (UTC)",
@@ -2712,6 +2983,7 @@
         "unitPrice": 11.401
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2722,6 +2994,7 @@
         "unitPrice": 4.491
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2732,6 +3005,7 @@
         "unitPrice": 1.845
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2742,6 +3016,7 @@
         "unitPrice": 3.284
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2752,6 +3027,7 @@
         "unitPrice": 1.364
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2762,6 +3038,7 @@
         "unitPrice": 2.18
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-21 00:06:38.243497 (UTC)",
@@ -2772,6 +3049,7 @@
         "unitPrice": 11.836
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2782,6 +3060,7 @@
         "unitPrice": 4.568
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2792,6 +3071,7 @@
         "unitPrice": 1.806
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2802,6 +3082,7 @@
         "unitPrice": 3.268
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2812,6 +3093,7 @@
         "unitPrice": 1.337
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2822,6 +3104,7 @@
         "unitPrice": 2.165
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-03-28 00:08:50.293117 (UTC)",
@@ -2832,6 +3115,7 @@
         "unitPrice": 11.863
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-03 22:01:13 (UTC)",
@@ -2842,6 +3126,7 @@
         "unitPrice": 3.183
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-03 22:01:13 (UTC)",
@@ -2852,6 +3137,7 @@
         "unitPrice": 3.182
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2862,6 +3148,7 @@
         "unitPrice": 4.644
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2872,6 +3159,7 @@
         "unitPrice": 1.839
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2882,6 +3170,7 @@
         "unitPrice": 3.292
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2892,6 +3181,7 @@
         "unitPrice": 1.371
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2902,6 +3192,7 @@
         "unitPrice": 2.178
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-04 01:34:48.397646 (UTC)",
@@ -2912,6 +3203,7 @@
         "unitPrice": 11.999
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-05 01:15:31 (UTC)",
@@ -2922,6 +3214,7 @@
         "unitPrice": 4.7
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-06 22:28:16 (UTC)",
@@ -2932,6 +3225,7 @@
         "unitPrice": 0.486
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2942,6 +3236,7 @@
         "unitPrice": 4.68
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2952,6 +3247,7 @@
         "unitPrice": 1.836
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2962,6 +3258,7 @@
         "unitPrice": 3.279
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2972,6 +3269,7 @@
         "unitPrice": 1.364
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2982,6 +3280,7 @@
         "unitPrice": 2.136
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-11 01:03:27.207882 (UTC)",
@@ -2992,6 +3291,7 @@
         "unitPrice": 11.96
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3002,6 +3302,7 @@
         "unitPrice": 4.736
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3012,6 +3313,7 @@
         "unitPrice": 1.849
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3022,6 +3324,7 @@
         "unitPrice": 3.23
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3032,6 +3335,7 @@
         "unitPrice": 1.364
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3042,6 +3346,7 @@
         "unitPrice": 2.131
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-19 02:41:54.751342 (UTC)",
@@ -3052,6 +3357,7 @@
         "unitPrice": 11.963
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3062,6 +3368,7 @@
         "unitPrice": 4.535
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3072,6 +3379,7 @@
         "unitPrice": 1.838
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3082,6 +3390,7 @@
         "unitPrice": 3.23
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3092,6 +3401,7 @@
         "unitPrice": 1.315
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3102,6 +3412,7 @@
         "unitPrice": 2.115
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-04-26 01:43:28.233384 (UTC)",
@@ -3112,6 +3423,7 @@
         "unitPrice": 11.861
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3122,6 +3434,7 @@
         "unitPrice": 4.582
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3132,6 +3445,7 @@
         "unitPrice": 1.833
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3142,6 +3456,7 @@
         "unitPrice": 3.22
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3152,6 +3467,7 @@
         "unitPrice": 1.361
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3162,6 +3478,7 @@
         "unitPrice": 2.155
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-02 01:20:49.979425 (UTC)",
@@ -3172,6 +3489,7 @@
         "unitPrice": 11.654
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3182,6 +3500,7 @@
         "unitPrice": 4.525
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3192,6 +3511,7 @@
         "unitPrice": 1.784
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3202,6 +3522,7 @@
         "unitPrice": 3.131
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3212,6 +3533,7 @@
         "unitPrice": 1.314
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3222,6 +3544,7 @@
         "unitPrice": 2.145
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-09 01:17:24.444250 (UTC)",
@@ -3232,6 +3555,7 @@
         "unitPrice": 11.671
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 00:00:00 (UTC)",
@@ -3242,6 +3566,7 @@
         "unitPrice": 2.568
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 00:00:00 (UTC)",
@@ -3252,6 +3577,7 @@
         "unitPrice": 1.415
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3262,6 +3588,7 @@
         "unitPrice": 4.541
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3272,6 +3599,7 @@
         "unitPrice": 1.824
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3282,6 +3610,7 @@
         "unitPrice": 3.059
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3292,6 +3621,7 @@
         "unitPrice": 1.335
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3302,6 +3632,7 @@
         "unitPrice": 2.174
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-16 01:13:32.311830 (UTC)",
@@ -3312,6 +3643,7 @@
         "unitPrice": 11.738
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-18 02:49:04.103135 (UTC)",
@@ -3322,6 +3654,7 @@
         "unitPrice": 1.28
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2022-05-18 13:30:14.484000 (UTC)",
@@ -3332,6 +3665,7 @@
         "unitPrice": 100.02
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-19 22:44:46 (UTC)",
@@ -3342,6 +3676,7 @@
         "unitPrice": 1.275
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3352,6 +3687,7 @@
         "unitPrice": 4.516
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3362,6 +3698,7 @@
         "unitPrice": 1.813
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3372,6 +3709,7 @@
         "unitPrice": 3.096
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3382,6 +3720,7 @@
         "unitPrice": 1.334
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3392,6 +3731,7 @@
         "unitPrice": 2.164
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 01:08:53.272356 (UTC)",
@@ -3402,6 +3742,7 @@
         "unitPrice": 11.177
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-23 23:57:29 (UTC)",
@@ -3412,6 +3753,7 @@
         "unitPrice": 4.92
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-24 03:20:39 (UTC)",
@@ -3422,6 +3764,7 @@
         "unitPrice": 1.295
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 00:00:00 (UTC)",
@@ -3432,6 +3775,7 @@
         "unitPrice": 1.711
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3442,6 +3786,7 @@
         "unitPrice": 4.506
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3452,6 +3797,7 @@
         "unitPrice": 1.846
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3462,6 +3808,7 @@
         "unitPrice": 3.031
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3472,6 +3819,7 @@
         "unitPrice": 1.322
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3482,6 +3830,7 @@
         "unitPrice": 2.146
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-05-30 01:06:27.877346 (UTC)",
@@ -3492,6 +3841,7 @@
         "unitPrice": 11.614
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "usd",
         "dataSource": "YAHOO",
         "date": "2022-06-01 13:30:09.379000 (UTC)",
@@ -3502,6 +3852,7 @@
         "unitPrice": 2450.0
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-02 01:57:30.841313 (UTC)",
@@ -3512,6 +3863,7 @@
         "unitPrice": 40.06
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3522,6 +3874,7 @@
         "unitPrice": 4.522
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3532,6 +3885,7 @@
         "unitPrice": 1.847
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3542,6 +3896,7 @@
         "unitPrice": 3.03
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3552,6 +3907,7 @@
         "unitPrice": 1.343
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3562,6 +3918,7 @@
         "unitPrice": 2.145
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-07 01:53:13.765669 (UTC)",
@@ -3572,6 +3929,7 @@
         "unitPrice": 11.544
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3582,6 +3940,7 @@
         "unitPrice": 4.259
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3592,6 +3951,7 @@
         "unitPrice": 1.756
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3602,6 +3962,7 @@
         "unitPrice": 2.945
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3612,6 +3973,7 @@
         "unitPrice": 1.335
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3622,6 +3984,7 @@
         "unitPrice": 2.076
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-13 01:03:29.662339 (UTC)",
@@ -3632,6 +3995,7 @@
         "unitPrice": 11.069
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3642,6 +4006,7 @@
         "unitPrice": 4.046
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3652,6 +4017,7 @@
         "unitPrice": 1.697
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3662,6 +4028,7 @@
         "unitPrice": 2.855
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3672,6 +4039,7 @@
         "unitPrice": 1.312
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3682,6 +4050,7 @@
         "unitPrice": 1.988
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 01:06:50.696928 (UTC)",
@@ -3692,6 +4061,7 @@
         "unitPrice": 10.653
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-20 23:52:59.321598 (UTC)",
@@ -3702,6 +4072,7 @@
         "unitPrice": 1.207
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-21 00:55:33.065604 (UTC)",
@@ -3712,6 +4083,7 @@
         "unitPrice": 0.555
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3722,6 +4094,7 @@
         "unitPrice": 4.134
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3732,6 +4105,7 @@
         "unitPrice": 1.748
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3742,6 +4116,7 @@
         "unitPrice": 2.946
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3752,6 +4127,7 @@
         "unitPrice": 1.341
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3762,6 +4138,7 @@
         "unitPrice": 2.042
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-06-27 01:25:04.792361 (UTC)",
@@ -3772,6 +4149,7 @@
         "unitPrice": 11.232
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3782,6 +4160,7 @@
         "unitPrice": 4.127
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3792,6 +4171,7 @@
         "unitPrice": 1.731
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3802,6 +4182,7 @@
         "unitPrice": 2.932
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3812,6 +4193,7 @@
         "unitPrice": 1.335
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3822,6 +4204,7 @@
         "unitPrice": 2.045
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-04 01:11:34.963679 (UTC)",
@@ -3832,6 +4215,7 @@
         "unitPrice": 11.162
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3842,6 +4226,7 @@
         "unitPrice": 4.157
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3852,6 +4237,7 @@
         "unitPrice": 1.724
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3862,6 +4248,7 @@
         "unitPrice": 3.0
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3872,6 +4259,7 @@
         "unitPrice": 1.348
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3882,6 +4270,7 @@
         "unitPrice": 2.08
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-11 02:03:07.130262 (UTC)",
@@ -3892,6 +4281,7 @@
         "unitPrice": 11.445
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-13 22:00:07.000075 (UTC)",
@@ -3902,6 +4292,7 @@
         "unitPrice": 5.42
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3912,6 +4303,7 @@
         "unitPrice": 4.129
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3922,6 +4314,7 @@
         "unitPrice": 1.706
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3932,6 +4325,7 @@
         "unitPrice": 3.005
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3942,6 +4336,7 @@
         "unitPrice": 1.307
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3952,6 +4347,7 @@
         "unitPrice": 2.05
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-18 01:07:50.396082 (UTC)",
@@ -3962,6 +4358,7 @@
         "unitPrice": 11.35
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",
@@ -3972,6 +4369,7 @@
         "unitPrice": 4.237
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",
@@ -3982,6 +4380,7 @@
         "unitPrice": 1.744
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",
@@ -3992,6 +4391,7 @@
         "unitPrice": 3.025
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",
@@ -4002,6 +4402,7 @@
         "unitPrice": 1.311
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",
@@ -4012,6 +4413,7 @@
         "unitPrice": 2.094
       },
       {
+        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "nzd",
         "dataSource": "YAHOO",
         "date": "2022-07-25 02:25:56.777008 (UTC)",

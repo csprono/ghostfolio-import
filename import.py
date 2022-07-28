@@ -8,16 +8,17 @@ transactions = pd.read_csv('transReport_latest.csv')
 #prepare format for json
 transactions.drop(['Order ID', 'Market code', 'Exchange rate', 'Amount', 'Transaction method'], axis=1, inplace=True)
 transactions['dataSource'] = 'YAHOO'
+transactions['accountId'] = '52953899-2a27-4b4a-a6e2-51cca9d82387'
 
 #rearrange columns to fit json format
 column_names = list(transactions.columns)
 print(column_names)
-order = [6,7,0,5,2,1,4,3]
+order = [8,6,7,0,5,2,1,4,3]
 column_names = [column_names[i] for i in order]
 transactions = transactions[column_names] 
 
 #rename columns
-transactions.columns = ['currency', 'dataSource', 'date', 'fee', 'quantity', 'symbol', 'type', 'unitPrice']
+transactions.columns = ['accountId','currency', 'dataSource', 'date', 'fee', 'quantity', 'symbol', 'type', 'unitPrice']
 
 #specify market in symbol code
 df_dict = transactions.to_dict(orient='records')
@@ -37,5 +38,5 @@ json_obj = json.loads(json_str)
 with open('test.json', 'w') as outfile:
     to_print = json.dumps(json_obj, indent=2)
     outfile.write(to_print)
-    requests.post('http://localhost:5000/', json=to_print)
+    #requests.post('http://localhost:5000/', json=to_print)
 
