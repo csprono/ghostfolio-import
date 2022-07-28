@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import requests
+from datetime import datetime
 
 #read csv
 transactions = pd.read_csv('transReport_latest.csv')
@@ -12,7 +13,6 @@ transactions['accountId'] = '52953899-2a27-4b4a-a6e2-51cca9d82387'
 
 #rearrange columns to fit json format
 column_names = list(transactions.columns)
-print(column_names)
 order = [8,6,7,0,5,2,1,4,3]
 column_names = [column_names[i] for i in order]
 transactions = transactions[column_names] 
@@ -27,6 +27,10 @@ for row in df_dict:
         row['symbol'] = str(row['symbol']) + '.NZ'
     elif row['currency'] == 'aud':
         row['symbol'] = str(row['symbol']) + '.AX'
+    
+    string = row['date'][:19]
+    time_str = datetime.strptime(string, '%Y-%m-%d %H:%M:%S')
+    row['date'] = time_str.isoformat()
 
 #convert dataframe to json object
 transactions = pd.DataFrame.from_dict(df_dict, orient="columns")
