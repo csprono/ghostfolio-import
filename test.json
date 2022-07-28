@@ -5,50 +5,6 @@
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "NZD",
         "dataSource": "YAHOO",
-        "date": "2020-03-25T23:00:00",
-        "fee": 0.0,
-        "quantity": 5.4,
-        "symbol": "23880.NZ",
-        "type": "BUY",
-        "unitPrice": 1.389
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2020-03-25T23:36:54",
-        "fee": 0.0,
-        "quantity": 3.7893,
-        "symbol": "23773.NZ",
-        "type": "BUY",
-        "unitPrice": 1.979
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2020-03-25T23:36:54",
-        "fee": 0.0,
-        "quantity": 16.3935,
-        "symbol": "42033.NZ",
-        "type": "BUY",
-        "unitPrice": 1.068
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2020-03-30T01:59:55",
-        "fee": 0.0,
-        "quantity": 18.69,
-        "symbol": "24292.NZ",
-        "type": "BUY",
-        "unitPrice": 0.937
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
         "date": "2020-04-05T22:01:24",
         "fee": 0.0,
         "quantity": 2.316244,
@@ -176,17 +132,6 @@
         "symbol": "FNZ.NZ",
         "type": "BUY",
         "unitPrice": 3.511
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2021-01-18T23:00:00",
-        "fee": 0.0,
-        "quantity": 5.752,
-        "symbol": "23793.NZ",
-        "type": "BUY",
-        "unitPrice": 3.477
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
@@ -379,28 +324,6 @@
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "NZD",
         "dataSource": "YAHOO",
-        "date": "2021-06-03T00:00:00",
-        "fee": 0.0,
-        "quantity": 1.5799,
-        "symbol": "23793.NZ",
-        "type": "BUY",
-        "unitPrice": 4.045
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2021-06-04T00:50:33",
-        "fee": 0.0,
-        "quantity": 10.99,
-        "symbol": "24292.NZ",
-        "type": "BUY",
-        "unitPrice": 1.365
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
         "date": "2021-06-13T22:00:41",
         "fee": 0.025,
         "quantity": 0.175732,
@@ -451,17 +374,6 @@
         "symbol": "HLG.NZ",
         "type": "BUY",
         "unitPrice": 7.45
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2021-07-05T00:00:00",
-        "fee": 0.0,
-        "quantity": 0.0914,
-        "symbol": "23793.NZ",
-        "type": "BUY",
-        "unitPrice": 4.052
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
@@ -1155,17 +1067,6 @@
         "symbol": "USF.NZ",
         "type": "BUY",
         "unitPrice": 11.551
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2021-09-23T01:53:15",
-        "fee": 0.0,
-        "quantity": 0.16,
-        "symbol": "24292.NZ",
-        "type": "BUY",
-        "unitPrice": 1.395
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
@@ -1903,17 +1804,6 @@
         "symbol": "PEB.NZ",
         "type": "SELL",
         "unitPrice": 1.35
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2021-11-24T23:00:00",
-        "fee": 0.0,
-        "quantity": 7.4233,
-        "symbol": "23793.NZ",
-        "type": "SELL",
-        "unitPrice": 4.36
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
@@ -3558,28 +3448,6 @@
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
         "currency": "NZD",
         "dataSource": "YAHOO",
-        "date": "2022-05-16T00:00:00",
-        "fee": 0.0,
-        "quantity": 3.7893,
-        "symbol": "23773.NZ",
-        "type": "SELL",
-        "unitPrice": 2.568
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2022-05-16T00:00:00",
-        "fee": 0.0,
-        "quantity": 16.3935,
-        "symbol": "42033.NZ",
-        "type": "SELL",
-        "unitPrice": 1.415
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
         "date": "2022-05-16T01:13:32",
         "fee": 0.00597,
         "quantity": 0.26294425,
@@ -3641,17 +3509,6 @@
         "symbol": "USF.NZ",
         "type": "BUY",
         "unitPrice": 11.738
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2022-05-18T02:49:04",
-        "fee": 0.0,
-        "quantity": 29.84,
-        "symbol": "24292.NZ",
-        "type": "SELL",
-        "unitPrice": 1.28
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
@@ -3762,17 +3619,6 @@
         "symbol": "NPF.NZ",
         "type": "BUY",
         "unitPrice": 1.295
-      },
-      {
-        "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
-        "currency": "NZD",
-        "dataSource": "YAHOO",
-        "date": "2022-05-30T00:00:00",
-        "fee": 0.0,
-        "quantity": 5.4,
-        "symbol": "23880.NZ",
-        "type": "SELL",
-        "unitPrice": 1.711
       },
       {
         "accountId": "52953899-2a27-4b4a-a6e2-51cca9d82387",
