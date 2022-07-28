@@ -25,8 +25,12 @@ df_dict = transactions.to_dict(orient='records')
 for row in df_dict:
     if row['currency'] == 'nzd':
         row['symbol'] = str(row['symbol']) + '.NZ'
+        row['currency'] = 'NZD'
     elif row['currency'] == 'aud':
         row['symbol'] = str(row['symbol']) + '.AX'
+        row['currency'] = 'AUD'
+    elif row['currency'] == 'usd':
+        row['currency'] = 'USD'
     
     string = row['date'][:19]
     time_str = datetime.strptime(string, '%Y-%m-%d %H:%M:%S')
