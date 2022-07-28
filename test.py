@@ -13,6 +13,12 @@ for row in df_dict:
         row['Instrument code'] = str(row['Instrument code']) + '.AX'
 
 transactions = pd.DataFrame.from_dict(df_dict, orient="columns")
-json_str = transactions.to_json(orient="records")
-json_test = json.loads(json_str)
-print(json.dumps(json_test, indent=4))
+
+
+
+trans_str = transactions.to_json(orient="records")
+json_str = json.dumps([{'activities':json.loads(trans_str)}])
+json_obj = json.loads(json_str)
+
+with open('test.json', 'w') as outfile:
+   outfile.write(json.dumps(json_obj, indent=2))
