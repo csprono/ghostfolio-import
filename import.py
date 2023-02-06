@@ -3,6 +3,8 @@ import json
 import requests
 from datetime import datetime
 
+authToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhhMjE4YjJjLTdmMzgtNDU1NC1hODQ5LTVmMDlkNTg2YTM0MyIsImlhdCI6MTY3NTY0MTQ0NSwiZXhwIjoxNjkxMTkzNDQ1fQ.uTw2jCIhLXOwhhQUDFdQruYUGeyddcgP31cN8LSjEL8'
+
 #read csv
 transactions = pd.read_csv('transReport_latest.csv')
 
@@ -18,7 +20,8 @@ column_names = [column_names[i] for i in order]
 transactions = transactions[column_names] 
 
 #rename columns
-transactions.columns = ['accountId','currency', 'dataSource', 'date', 'fee', 'quantity', 'symbol', 'type', 'unitPrice']
+transactions.columns = ['dataSource','currency', 'comments', 'date', 'fee', 'quantity', 'symbol', 'type', 'unitPrice']
+transactions['accountId'] = None
 
 #specify market in symbol code
 df_dict = transactions.to_dict(orient='records')
@@ -46,5 +49,5 @@ json_obj = json.loads(json_str)
 with open('test.json', 'w') as outfile:
     to_print = json.dumps(json_obj, indent=2)
     outfile.write(to_print)
-    #requests.post('http://localhost:5000/', json=to_print)
+    requests.post('http://192.168.1.79:3333/api/v1/import', json=to_print, headers=authToken)
 
