@@ -6,7 +6,7 @@ from math import ceil
 
 
 def send(payload):
-    url = "http://localhost:3333/api/v1/import"
+    url = "http://192.168.1.79:3333/api/v1/import"
 
     headers = {
     'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhhMjE4YjJjLTdmMzgtNDU1NC1hODQ5LTVmMDlkNTg2YTM0MyIsImlhdCI6MTY3NTY0NTIyNywiZXhwIjoxNjkxMTk3MjI3fQ.Objay0z0AlfsuehulOHRPPlZY1A15Phw4kM_kYKSvwU',
@@ -14,7 +14,10 @@ def send(payload):
     }
 
     response = requests.request("POST", url, headers=headers, data=payload)
-    print(response.text)
+       
+    if 'error' in response.json().keys():
+        print(response.text)
+        return
 
 
 #read csv
@@ -23,7 +26,7 @@ transactions = pd.read_csv('transReport_latest.csv')
 #prepare format for json
 transactions.drop(['Order ID', 'Market code', 'Exchange rate', 'Amount', 'Transaction method', 'Comments'], axis=1, inplace=True)
 transactions['dataSource'] = 'YAHOO'
-transactions['accountId'] = None
+transactions['accountId'] = '809004c4-94ee-4f91-b3ea-9cabe474fd6c'
 
 #rearrange columns to fit json format
 column_names = list(transactions.columns)
